@@ -6,7 +6,8 @@ Hi! I am currently pursuing my B. Tech in Computer Science at BBDNITM. <br>
 ✨ Through both my academic studies and my practical work experience, I have developed a broad range of skills and knowledge that I look forward to applying to my future endeavors. <br>
 ✨ I am eager to connect with like-minded professionals and explore new opportunities for growth and development.<br>
 <hr>
-**Reach me at: **
+
+# Reach me at: 
   <p align="center">
   <a href="https://www.linkedin.com/in/shreya-singh-bhriguvanshi/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
@@ -20,11 +21,10 @@ Hi! I am currently pursuing my B. Tech in Computer Science at BBDNITM. <br>
 </p>
 
 <hr>
-**My TechStack**
+
+# My TechStack
   <p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,java,python,c,html,css,js,mongodb,express,react,nodejs,github" />
-  </a>
 </p>
  
 
