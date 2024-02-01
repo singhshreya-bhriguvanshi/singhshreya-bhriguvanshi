@@ -1,29 +1,33 @@
 ### Hi there 👋
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hi! I am currently pursuing my B. Tech in Computer Science at BBDNITM. 
+✨ I am passionate about coding and DSA.🫡
+✨ As a highly motivated and results-driven professional, I am excited to leverage my skills and experience to make a meaningful contribution to the industry. 
+✨ With a dedicated work ethic and a passion for collaborative problem-solving, I am committed to pursuing excellence in every aspect of my career. 
+✨ Through both my academic studies and my practical work experience, I have developed a broad range of skills and knowledge that I look forward to applying to my future endeavors.
+✨ I am eager to connect with like-minded professionals and explore new opportunities for growth and development.
+<hr>
+# 📫 How to reach me:
+  <p align="center">
+  <a href="https://www.linkedin.com/in/shreya-singh-bhriguvanshi/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
+<p align="center">
+  <a href="singhshreya.bhriguvanshi@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://twitter.com/SinghLeCodeur">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+</p>
+<hr>
   # MY TECH STACK
   <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,java,python,c,html,css,js,mongodb,express,react,nodejs,github" />
   </a>
 </p>
-  #----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+ 
 
